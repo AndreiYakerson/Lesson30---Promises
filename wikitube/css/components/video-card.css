@@ -1,0 +1,14 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.video-card {
+    border: solid 1px;
+    background-color: rgb(222, 146, 5);
+}
+
+.video-card:hover {
+    background-color: rgba(221, 240, 17, 0.189);
+    cursor: pointer;
+}
